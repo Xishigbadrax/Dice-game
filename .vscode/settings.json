@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "is301",
+            "dialect": "MySQL",
+            "isActive": false,
+            "isConnected": false,
+            "name": "is301",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
